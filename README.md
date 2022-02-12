@@ -1,0 +1,2 @@
+# supervisord
+supervisord daemon
